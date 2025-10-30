@@ -1,4 +1,4 @@
-# 🌐 Zeron Browser v0.3.0
+# 🌐 Zeron Browser v0.3.3
 
 > **Zeron Browser** is a fully Python-based web browser designed to be **fast, secure, and highly customizable**.  
 > It uses **Qt WebEngine** to render modern web pages with advanced UI animations, a built-in download manager, dynamic theming, a password vault, and tabbed browsing — all **optimized for Windows 11, Linux, and beyond**.
@@ -35,7 +35,7 @@
 
 ```bash
 # 1️⃣ Clone the repo
-git clone .git
+git clone https://github.com/cyberworrier8088/Zeron.git
 cd Zeron-Browser
 
 # 2️⃣ Install dependencies
