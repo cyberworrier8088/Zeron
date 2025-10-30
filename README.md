@@ -36,7 +36,7 @@
 ```bash
 # 1️⃣ Clone the repo
 git clone https://github.com/cyberworrier8088/Zeron.git
-cd Zeron-Browser
+cd Zeron
 
 # 2️⃣ Install dependencies
 pip install PyQt5 PyQtWebEngine
